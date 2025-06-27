@@ -1,4 +1,4 @@
-# Quantum-Teleportation--Using-Qiskit-Cirq
+# Quantum Teleportation Using Qiskit & Cirq
 This project demonstrates the implementation of quantum teleportation, a fundamental quantum communication protocol, using two leading quantum programming frameworks: Qiskit (IBM) and Cirq (Google).
 The simulation shows how an arbitrary quantum state can be transmitted from one qubit to another using entanglement and classical communication, without physically moving the qubit itself.
 
